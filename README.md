@@ -15,7 +15,7 @@ I am passionate about using technology to simplify complex processes, automate w
 PHP, JavaScript, Python
 
 **Web Development**  
-HTML, CSS, Bostrap, Codeigniter Laravel, Symfony, Silverstripe, and custom-built frameworks
+HTML, CSS, Bootstrap, CodeIgniter, Laravel, Symfony, Silverstripe, and custom-built frameworks
 
 **Databases**  
 MySQL, Firebird SQL, SQLite, PostgreSQL, MongoDB, SQL Server
