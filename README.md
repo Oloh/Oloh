@@ -1,16 +1,22 @@
-## Hi there 👋
+### 💻 My Skills
 
-<!--
-**Oloh/Oloh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Programming Languages:**  
+PHP, JavaScript, Python, C#, C++
 
-Here are some ideas to get you started:
+**Web Development:**  
+HTML, CSS, Laravel, Symfony, Silverstripe, Vue.js, and custom-built frameworks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Databases:**  
+MySQL, Firebird SQL, SQLite, PostgreSQL, MongoDB, SQL Server
+
+**CI/CD & Automation:**  
+GitHub Actions, Vagrant, and custom automation tools
+
+**Tools & Technologies:**  
+Visual Studio Code, Git, Kanboard, cURL, PHPStan, Postman
+
+**Security Testing:**  
+OWASP ZAP
+
+**Operating Systems & DevOps:**  
+Extensive experience with Linux distributions (Ubuntu, CentOS, Debian). Proficient in Bash scripting for automation, server configuration, and optimizing development environments.
