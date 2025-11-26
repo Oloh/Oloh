@@ -1,10 +1,6 @@
 ## 👋 Hello
 
-I'm a full-stack software developer and entrepreneur with over seven years of experience building robust, high-performance web platforms. My expertise spans software engineering, product development, and technical writing.
-
-I have led projects from idea to execution—transforming early-stage concepts and MVPs into fully functional digital products. My approach blends deep technical knowledge with a strong focus on performance, data optimization, and collaborative problem-solving.
-
-I am passionate about using technology to simplify complex processes, automate workflows, and deliver meaningful impact. I enjoy crafting tailored software solutions for businesses, as well as designing data-driven dashboards that support smarter decision-making.
+Full-stack software engineer and product strategist with 7+ years building high-performance, scalable web systems, optimizing data flows, and turning complex ideas into production-ready, maintainable software.
 
 
 ---
