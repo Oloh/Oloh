@@ -7,7 +7,7 @@ Full-stack software engineer and product strategist with 7+ years engineering sc
 ### 💻 My Skills
 
 **Applied AI**
-LLM applications, AI agents, agentic workflows, RAG, prompt engineering, tool/function calling, AI automation, and integrating AI into production software systems.
+LLM applications, AI agents, agentic workflows, RAG, prompt engineering, tool/function calling, AI automation, and integrating AI into production software systems
 
 **Languages**  
 PHP, JavaScript, Python
