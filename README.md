@@ -1,17 +1,19 @@
 ## 👋 Hello
 
-Full-stack software engineer and product strategist with 7+ years building high-performance, scalable web systems, optimizing data flows, and turning complex ideas into production-ready, maintainable software.
-
+Full-stack software engineer and product strategist with 7+ years engineering scalable web systems, alongside a growing specialisation in Applied AI (agentic systems, MCP, and intelligent automation).
 
 ---
 
 ### 💻 My Skills
 
-**Programming Languages**  
+**Applied AI**
+LLM applications, AI agents, agentic workflows, RAG, prompt engineering, tool/function calling, AI automation, and integrating AI into production software systems.
+
+**Languages**  
 PHP, JavaScript, Python
 
-**Web Development**  
-HTML, CSS, Bootstrap, CodeIgniter, Laravel, Symfony, Silverstripe, and custom-built frameworks
+**Web Engineering**
+HTML, CSS, JavaScript, REST APIs, MVC, responsive systems, authentication, caching, performance optimization, database integration, Laravel, Symfony, CodeIgniter, Silverstripe, Bootstrap, and custom-built platforms
 
 **Databases**  
 MySQL, Firebird SQL, SQLite, PostgreSQL, MongoDB, SQL Server
